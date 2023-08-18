@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MVVMBasicSetup_Kotlin</string>
+    <string name="dont_have_an_account">Dont Have an account?</string>
+    <string name="sign_up_here">Sign Up Here</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="forget_password">Forget Password?</string>
+    <string name="sign_in">Sign In</string>
+    <string name="have_an_account">Have an Account?</string>
+    <string name="name">Name</string>
+    <string name="confirm_password">Confirm Password</string>
+</resources>
